@@ -19,7 +19,7 @@ c. Order Confirmation
 
 # 2. Simple game "Conquering The Space":
 
-The aim of the game is to eliminate the alien enemy. The enemy is hidden on the board. The player must explore the cells to locate the enemy in the
+The aim of the game is to eliminate the alien enemy - invader. The enemy is hidden on the board. The player must explore the cells to locate the enemy in the
 maximum number of attempts obtained from the dice draw. 
 The player starts with 800 points. Each empty cell subtracts 200 points from the player. When the player finds the enemy, he gains 3000 points and the game is over. There is also a meteorite on the board, which erases the player's points and the game ends with a loss.
 
