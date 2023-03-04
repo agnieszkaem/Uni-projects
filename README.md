@@ -1,2 +1,2 @@
 # Uni-projects
-Projects developed during studies
+Projects developed in Java during studies
